@@ -6,7 +6,7 @@ And it’s about a fucking service that moves your shitty crypto between motherf
 
 The whole fucking thing is plain **stupid**
 
-If you store the coins in a centralized exchange, then why bother moving them in a descentralzied permissionless mumbo jumbo way?
+If you store the coins in a centralized exchange, then why bother moving them in a descentralized permissionless mumbo jumbo way?
 
 ## The service is called **Bransfer**
 
