@@ -6,7 +6,7 @@ And it’s about a fucking service that moves your shitty crypto between motherf
 
 The whole fucking thing is plain **stupid**
 
-If you store the coins in a centralized exchange, then why bother moving them in a descentralized permissionless mumbo jumbo way?
+If you store the coins in a centralized exchange, then why bother moving them in a decentralized permissionless mumbo jumbo way?
 
 ## The service is called **Bransfer**
 
@@ -19,7 +19,7 @@ It's supported in your favorite big-ass exchanges: Binance and Huobi.
 ### And guess what, motherfucker:
 
 *   Shit’s _fucking_ fast;
-*   It costs less than your stupid morning moccachino.
+*   It costs less than your stupid morning mochaccino.
 
 ### And as the saying goes...
 
