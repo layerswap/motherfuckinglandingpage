@@ -29,6 +29,8 @@ It's supported in your favorite big-ass exchanges: Binance and Huobi.
 
 ## Epilogue
 
+There is also a normal not-motherfucking landing page with fancy animations and stuff at [bransfer.io](https://bransfer.io/)
+
 Inspired by the geniuses behind [perfectmotherfuckingwebsite.com](https://perfectmotherfuckingwebsite.com/), [motherfuckingwebsite.com](https://motherfuckingwebsite.com/) and [bettermotherfuckingwebsite.com](http://bettermotherfuckingwebsite.com/).
 
 This page—that has no fucking gradients and skewed cards—was licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
