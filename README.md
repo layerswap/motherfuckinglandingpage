@@ -12,7 +12,7 @@ If you store the coins in a centralized exchange, then why bother moving them in
 
 And the idea behind it is plain stupid:
 
-You send your coins to our motherfucking address in one exchange. Then we send the same coins back from our next motherfucking address from the other shitty exchange.
+You send your coins to our address in one exchange. Then we send the same coins back from our address in the other exchange.
 
 It's supported in your favorite big-ass exchanges: Binance and Huobi.
 
