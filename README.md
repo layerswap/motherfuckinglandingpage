@@ -1,8 +1,8 @@
 # This is a motherfucking landing page.
 
-And it’s about a fucking service that moves your shitty crypto between motherfucking exchanges.
+And it’s about a fucking service that moves your shitty coins between crypto exchanges.
 
-## Seriously, why would you pay 💲50 motherfucking dollars just to update a few shitty database records?
+## Seriously, why would you pay 50 motherfucking dollars just to update a few shitty database records?
 
 The whole fucking thing is plain **stupid**
 
