@@ -27,7 +27,7 @@ It's supported in your favorite big-ass exchanges: Coinbase, FTX.COM, KuCoin, Bi
 
 ## Epilogue
 
-Get off your lazy ass and click on this fucking link - [layerswap.io](https://layerswap.io)
+Get off your lazy ass and click on this **fucking link** - [layerswap.io](https://layerswap.io)
 
 * * *
 
