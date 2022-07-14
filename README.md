@@ -1,6 +1,6 @@
 # This is a motherfucking landing page.
 
-And it’s about a fucking service that moves your shitty coins between crypto exchanges.
+And it’s about a fucking service that moves your shitty coins from centralized exchanges to Layer2s and back.
 
 ## Seriously, why would you pay 50 motherfucking dollars just to update a few shitty database records?
 
@@ -8,13 +8,13 @@ The whole fucking thing is plain **stupid**
 
 If you store the coins in a centralized exchange, then why bother moving them in a decentralized permissionless mumbo jumbo way?
 
-## The service is called **Bransfer**
+## The service is called **Layerswap**
 
 And the idea behind it is plain stupid:
 
-You send your coins to our address in one exchange. Then we send the same coins back from our address in the other exchange.
+You send your coins to our address in a centralized exchange. Then we send the same coins back to your L2 address.
 
-It's supported in your favorite big-ass exchanges: Binance and Huobi.
+It's supported in your favorite big-ass exchanges: Coinbase, FTX.COM, KuCoin, Binance, Huobi and more.
 
 ### And guess what, motherfucker:
 
@@ -29,7 +29,7 @@ It's supported in your favorite big-ass exchanges: Binance and Huobi.
 
 ## Epilogue
 
-There is also a normal not-motherfucking landing page with fancy animations and stuff at [bransfer.io](https://bransfer.io/)
+Get off your lazy ass and click on this fucking link - [layerswap.io](https://layerswap.io)
 
 Inspired by the geniuses behind [perfectmotherfuckingwebsite.com](https://perfectmotherfuckingwebsite.com/), [motherfuckingwebsite.com](https://motherfuckingwebsite.com/) and [bettermotherfuckingwebsite.com](http://bettermotherfuckingwebsite.com/).
 
