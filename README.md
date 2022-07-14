@@ -1,6 +1,6 @@
 # This is a motherfucking landing page.
 
-And it’s about a fucking service that moves your shitty coins from centralized exchanges to Layer2s and back.
+And it’s about a fucking service that moves your shitty coins from centralized exchanges to L2s and back.
 
 ## Seriously, why would you pay 50 motherfucking dollars just to update a few shitty database records?
 
@@ -25,11 +25,11 @@ It's supported in your favorite big-ass exchanges: Coinbase, FTX.COM, KuCoin, Bi
 
 > “Whatever is faster and cheaper is better.” — A smart motherfucker
 
-* * *
-
 ## Epilogue
 
 Get off your lazy ass and click on this fucking link - [layerswap.io](https://layerswap.io)
+
+* * *
 
 Inspired by the geniuses behind [perfectmotherfuckingwebsite.com](https://perfectmotherfuckingwebsite.com/), [motherfuckingwebsite.com](https://motherfuckingwebsite.com/) and [bettermotherfuckingwebsite.com](http://bettermotherfuckingwebsite.com/).
 
